@@ -7,7 +7,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #28a745;
+    background-color: #52e274;
 }
 .con{
     border: 1px solid #0b7424;
@@ -78,7 +78,7 @@ form input{
 form button{
     margin-top: 1rem;
     border: 1px solid lightgrey;
-    background-color: #28a745;
+    background-color: #33b651;
     height: 2rem;
     color: #fff;
     cursor: pointer;
